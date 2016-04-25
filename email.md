@@ -14,7 +14,7 @@
 
 ### Knowledgeable Practitioner
 
-* 
+* Monitor your IP addresses against known real-time blacklists.  Suggested reading: Sendgrid blog post: [What is an Email Blacklist?](https://sendgrid.com/blog/email-blacklist/).
 
 ### Expert
 
