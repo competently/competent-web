@@ -11,6 +11,7 @@
 		* [Can Email Be Responsive?](http://alistapart.com/article/can-email-be-responsive)  
 	* Recommended resources:  
 		* [Foundation for Email 2](http://foundation.zurb.com/emails.html)
+		* [Mailgun open-sourced templates on Github](https://github.com/mailgun/transactional-email-templates)
 
 ### Practitioner
 
@@ -23,7 +24,9 @@
 		* [Gmail Help document](https://support.google.com/mail/answer/6227174?hl=en&ref_topic=6259779) on Postmaster Tools
 * Monitor your IP addresses against known real-time blacklists.  
 	* Suggested reading: 
-		* Sendgrid blog post: [What is an Email Blacklist?](https://sendgrid.com/blog/email-blacklist/).
+		* Sendgrid blog post: [What is an Email Blacklist?](https://sendgrid.com/blog/email-blacklist/)
+	* Recommended resources:
+		* [RBLmon - Fully Automated RBL Monitoring](https://www.rblmon.com)
 
 ### Expert
 
