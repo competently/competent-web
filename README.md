@@ -6,6 +6,10 @@ For a brief explanation of the different compentency levels, look [here](#compet
 
 ## Competency Dimensions
 
+### [Customer Service](customer-service.md)
+
+Do you work closely with your user community to help support them with your site/application?  If so, you should reference this for at least the basics.
+
 ### [Email](email.md)
 
 Definitely worth reviewing if your business heavily leverages email as part of it's user engagement strategy, but not a bad idea even if you just lightly engage.
