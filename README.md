@@ -14,6 +14,10 @@ Do you work closely with your user community to help support them with your site
 
 Definitely worth reviewing if your business heavily leverages email as part of it's user engagement strategy, but not a bad idea even if you just lightly engage.
 
+### [SEO](seo.md)
+
+Lorem ipsum...
+
 
 <a name="competency-levels"></a>
 ## Competency Levels
